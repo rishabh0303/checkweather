@@ -1,0 +1,19 @@
+#wapp{
+    padding: 1%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navbar-brand{
+    font-size: 2em;
+
+}
+#custom{
+    
+    background-image: url(ak.jpg);
+    
+
+    
+}
+.lead{
+    color: cornsilk;
+    font-size: 2em;
+}
